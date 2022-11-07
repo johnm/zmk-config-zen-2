@@ -5,10 +5,10 @@ manifest:
     - name: johnm
       url-base: https://github.com/johnm
   projects:
-    - name: zmk
-      remote: zmkfirmware
-      revision: corne-ish-zen-v2
-      import: app/west.yml
+#    - name: zmk
+#      remote: zmkfirmware
+#      revision: corne-ish-zen-v2
+#      import: app/west.yml
     - name: zmk
       remote: johnm
       revision: main
